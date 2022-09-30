@@ -7,7 +7,8 @@ public class DemoJuego {
         
         int a = 0;
         System.out.println(a);
-        
+        System.out.println("XD");
+        System.out.println("jacuna matata");
         
         
     }
