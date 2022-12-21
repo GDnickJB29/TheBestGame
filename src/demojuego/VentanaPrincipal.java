@@ -14,7 +14,11 @@ private void inciarComponentes() {
 	setTitle("The best game of de world");
 	setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 	setLocationRelativeTo(null);
-
+  
+  PanelMenuPrincipal panel = new PanelMenuPrincipal();
+  
+  this.add(panel);
+  
 	pack();
 }
 
